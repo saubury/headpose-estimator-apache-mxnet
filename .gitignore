@@ -1,3 +1,4 @@
 myproject/*
 Person*
 HeadPoseImageDatabase.tar.gz
+*.pkl
